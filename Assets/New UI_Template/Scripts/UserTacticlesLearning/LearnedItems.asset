@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd03e08a01f910c42b4f24cc20ed5c3b, type: 3}
+  m_Name: LearnedItems
+  m_EditorClassIdentifier: 
+  learnItems:
+  - name: Chest
+    value: 0
+  - name: Door
+    value: 0
+  - name: Key
+    value: 0
+  - name: Cheese
+    value: 0
+  - name: Rock
+    value: 0
+  - name: Bomb
+    value: 0
+  - name: HealthKit
+    value: 0
+  - name: SprintKit
+    value: 0
+  - name: Gold Coin
+    value: 0
+  - name: Pink Diamond
+    value: 0
+  - name: Green Diamond
+    value: 0
+  - name: Blue Diamond
+    value: 0
+  - name: PowerUpLearm
+    value: 0

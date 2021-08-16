@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c39367f27ea4620488d879b7e60a60bd, type: 3}
+  m_Name: HealthKit Power
+  m_EditorClassIdentifier: 
+  currentLevel: 0
+  currentLevelIndex: 0
+  currentPower: 50
+  levels:
+  - level: 0
+    requiredAmountForNextLevel: 0
+    Description: Can Refill 50HP
+    increasePower: 50
+  - level: 1
+    requiredAmountForNextLevel: 2000
+    Description: Can Refill 100HP
+    increasePower: 100
+  - level: 2
+    requiredAmountForNextLevel: 3000
+    Description: Can Refill 150HP
+    increasePower: 150
+  - level: 3
+    requiredAmountForNextLevel: 4000
+    Description: Can Refill 200HP
+    increasePower: 200
+  - level: 4
+    requiredAmountForNextLevel: 5000
+    Description: Can Refill 250HP
+    increasePower: 250
+  currentDescription: Can Refill 150HP

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51756b47f80366c47a1e7ce75518652e, type: 3}
+  m_Name: Bow Releasing String
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 03be8dd4c1435544187203683ad62ab5, type: 3}
+  - {fileID: 8300000, guid: 90e5b7d8521850f42860813b8ea229a5, type: 3}
+  - {fileID: 8300000, guid: 9db47ef14d3cd0440ac9133af9730ff3, type: 3}
+  - {fileID: 8300000, guid: d34e69083e41332418f85ddef69d55fe, type: 3}
+  - {fileID: 8300000, guid: 862ffbc1b32d8b747a40f2eb988b6f2b, type: 3}
+  volume: {x: 0.8, y: 1}
+  pitch: {x: 0.8, y: 1}

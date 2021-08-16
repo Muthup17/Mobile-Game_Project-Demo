@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c39367f27ea4620488d879b7e60a60bd, type: 3}
+  m_Name: SprintKit Power
+  m_EditorClassIdentifier: 
+  currentLevel: 0
+  currentLevelIndex: 0
+  currentPower: 50
+  levels:
+  - level: 0
+    requiredAmountForNextLevel: 0
+    Description: Power Up to 100SP
+    increasePower: 50
+  - level: 1
+    requiredAmountForNextLevel: 3000
+    Description: Power Up to 150SP
+    increasePower: 100
+  - level: 2
+    requiredAmountForNextLevel: 4000
+    Description: Power Up to 200SP
+    increasePower: 150
+  - level: 3
+    requiredAmountForNextLevel: 5000
+    Description: Power Up to 250SP
+    increasePower: 200
+  - level: 4
+    requiredAmountForNextLevel: 6000
+    Description: Power Up to 300SP
+    increasePower: 250
+  currentDescription: Power Up to 250SP

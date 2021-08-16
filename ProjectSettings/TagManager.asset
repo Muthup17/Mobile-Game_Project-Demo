@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Inventory_Panel
+  - Examining_Point
+  - Ground
+  - Chest
+  - ExitDoor
+  - ExitDoorCover
+  - SearchPoint
+  - Archer
+  - PlayerVulnerable_Object
+  - Base
+  - ChasingPlayer
+  - Monster
+  - Skeleton
+  - Door
+  - Player_SmokeBomb
+  - Cheese
+  - FX
+  - MonsterArea
+  - Interactable_Object
+  - Points_Object
+  - HandsignRefContainer
+  - Crosshair
+  - Player_ProjectileHitLoc
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Interactable
+  - Interacting
+  - PutBack
+  - Monster
+  - Points
+  - Skeleton
+  - Weapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

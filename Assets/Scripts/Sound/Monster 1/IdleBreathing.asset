@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51756b47f80366c47a1e7ce75518652e, type: 3}
+  m_Name: IdleBreathing
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 13a486d8e25601a4d8b1c33d2c55b1f7, type: 3}
+  - {fileID: 8300000, guid: 10a3045f543ce8f43b3eb9eef820f443, type: 3}
+  - {fileID: 8300000, guid: c4ab2066fee6caf46b3191bfe5811e6c, type: 3}
+  - {fileID: 8300000, guid: eaea5d88d01c7f94eb7ca86d5022c817, type: 3}
+  - {fileID: 8300000, guid: 12313de7182404747af4b86ed165b4ad, type: 3}
+  volume: {x: 0.8, y: 1}
+  pitch: {x: 0.8, y: 1}
